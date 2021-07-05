@@ -1,5 +1,5 @@
 # Typing Effect Without Cursor
 
-Text Animation using HTMl and CSS.
+Text Animation using HTML and CSS.
 
 ![image info](Image.png)
